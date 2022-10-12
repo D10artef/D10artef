@@ -1,5 +1,5 @@
 I’m Arison Tojo F.
-I’m currently learning React/Vue frameworks
+I’m fullsatck developer
 
 <!---
 D10artef/D10artef is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
